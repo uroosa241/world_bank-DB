@@ -1,7 +1,14 @@
 # Databricks notebook source
-# DBTITLE 1,Setup: paths + directories
+# /// script
+# [tool.databricks.environment]
+# environment_version = "5"
+# ///
 # MAGIC %md
 # MAGIC ### 1. Setup: paths + directories
+
+# COMMAND ----------
+
+# small update
 
 # COMMAND ----------
 
